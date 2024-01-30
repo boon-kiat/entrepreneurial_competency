@@ -10,6 +10,9 @@ Entrepreneurship studies have seen significant success in the field of education
 - Entrepreneurial Compentency Dataset.csv provided by lecturer
 - Contain 233 records and 17 attributes
 
+### Tools:
+- Microsoft Power BI
+
 ### Methodology:
 _Develop and explain a DataOps architecture diagram for streamlined data visualization:_  
 - Apache Kafka is included in the DataOps architecture because the question asked for streaming data pipeline.
